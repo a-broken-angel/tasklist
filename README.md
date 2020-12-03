@@ -22,8 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-It was a good oppurtunity to work with the Android Studio. 
+Describe any challenges encountered while building the app. : It was challenging to work with a new environment like Android Studio. 
 
 ## License
 
